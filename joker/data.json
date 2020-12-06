@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Death Bed",
+    "artist": "Powfu",
+    "artwork": "https://testSongs.netlify.app/ARTS/death-bed.jpg",
+    "url": "https://testSongs.netlify.app/joker/Death%20Bed.mp3",
+    "id": "1"
+  },
+  {
+    "title": "Bad Liar",
+    "artist": "Imagine Dragons",
+    "artwork": "https://testSongs.netlify.app/ARTS/bad-liar.jpg",
+    "url": "https://testSongs.netlify.app/joker/Bad%20Liar.mp3",
+    "id": "2"
+  },
+  {
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "artwork": "https://testSongs.netlify.app/ARTS/faded.jpg",
+    "url": "https://testSongs.netlify.app/joker/Faded.mp3",
+    "id": "3"
+  },
+  {
+    "title": "Hate Me",
+    "artist": "Ellie Goulding",
+    "artwork": "https://testSongs.netlify.app/ARTS/hate-me.jpg",
+    "url": "https://testSongs.netlify.app/joker/Hate%20Me.mp3",
+    "id": "4"
+  },
+  {
+    "title": "Solo",
+    "artist": "Clean Bandit",
+    "artwork": "https://testSongs.netlify.app/ARTS/solo.jpg",
+    "url": "https://testSongs.netlify.app/joker/Solo.mp3",
+    "id": "5"
+  },
+  {
+    "title": "Without Me",
+    "artist": "Halsey",
+    "artwork": "https://testSongs.netlify.app/ARTS/without-me.jpg",
+    "url": "https://testSongs.netlify.app/joker/Without%20Me.mp3",
+    "id": "6"
+  }
+]

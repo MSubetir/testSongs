@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Come Back And Do It (High Voltage)",
+    "artist": "Malcolm J Hill",
+    "artwork": "https://testSongs.netlify.app/ARTS/death-bed.jpg",
+    "url": "https://testSongs.netlify.app/euroBeat/Come%20Back%20And%20Do%20It%20(High%20Voltage).mp3",
+    "id": "1"
+  },
+  {
+    "title": "Go Go Boy (Super Mix)",
+    "artist": "Ross",
+    "artwork": "https://testSongs.netlify.app/ARTS/bad-liar.jpg",
+    "url": "https://testSongs.netlify.app/euroBeat/Go%20Go%20Boy%20(Super%20Mix).mp3",
+    "id": "2"
+  },
+  {
+    "title": "Out Of Your Heart (Club Mix)",
+    "artist": "Laurie",
+    "artwork": "https://testSongs.netlify.app/ARTS/faded.jpg",
+    "url": "https://testSongs.netlify.app/euroBeat/Out%20Of%20Your%20Heart%20(Club%20Mix).mp3",
+    "id": "3"
+  },
+  {
+    "title": "It's So Funny (Ext Banana)",
+    "artist": "King Kong & D Jungle Girls",
+    "artwork": "https://testSongs.netlify.app/ARTS/hate-me.jpg",
+    "url": "https://testSongs.netlify.app/euroBeat/It's%20So%20Funny%20(Ext Banana).mp3",
+    "id": "4"
+  },
+  {
+    "title": "Come Come Come (Orient Express",
+    "artist": "Lilac",
+    "artwork": "https://testSongs.netlify.app/ARTS/solo.jpg",
+    "url": "https://testSongs.netlify.app/euroBeat/Come%20Come%20Come%20(Orient%20Express.mp3",
+    "id": "5"
+  },
+  {
+    "title": "Everything You Love (Dolce Vita Edit)",
+    "artist": "Chip Chip",
+    "artwork": "https://testSongs.netlify.app/ARTS/without-me.jpg",
+    "url": "https://testSongs.netlify.app/euroBeat/Everything%20You%20Love%20(Dolce%20Vita%20Edit).mp3",
+    "id": "6"
+  }
+  {
+    "title": "Awaka Boy (Extended Version)",
+    "artist": "Tatjana",
+    "artwork": "https://testSongs.netlify.app/ARTS/death-bed.jpg",
+    "url": "https://testSongs.netlify.app/euroBeat/Awaka%20Boy%20(Extended%20Version).mp3",
+    "id": "7"
+  },
+  {
+    "title": "Let Me Down (Extended Version)",
+    "artist": "Michael Fortunati",
+    "artwork": "https://testSongs.netlify.app/ARTS/bad-liar.jpg",
+    "url": "https://testSongs.netlify.app/euroBeat/Let%20Me%20Down%20(Extended%20Version).mp3",
+    "id": "8"
+  },
+  {
+    "title": "Megamix",
+    "artist": "Ross",
+    "artwork": "https://testSongs.netlify.app/ARTS/faded.jpg",
+    "url": "https://testSongs.netlify.app/euroBeat/Megamix.mp3",
+    "id": "9"
+  },
+]
