@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Bohemian Rhapsody",
+    "artist":"queen",
+    "url": "https://testSongs.netlify.app/queen/Bohemian%20Rhapsody.mp3",
+    "id": "1"
+  },
+  {
+    "title": "Another One Bites The Dust)",
+    "artist":"queen",
+    "url": "https://testSongs.netlify.app/queen/Bohemian%20Rhapsody.mp3",
+    "id": "2"
+  },
+  {
+    "title": "Killer Queen",
+    "artist":"queen",
+    "url": "https://testSongs.netlify.app/queen/Killer%20Queen.mp3",
+    "id": "3"
+  },
+  {
+    "title": "Fat Bottomed Girls",
+    "artist":"queen",
+    "url": "https://testSongs.netlify.app/queen/Fat%20Bottomed%20Girls.mp3",
+    "id": "4"
+  },
+  {
+    "title": "Bicycle Race",
+    "artist":"queen",
+    "url": "https://testSongs.netlify.app/queen/Bicycle%20Race.mp3",
+    "id": "5"
+  },
+  {
+    "title": "Don't Stop Me Now",
+    "artist":"queen",
+    "url": "https://testSongs.netlify.app/queen/Don't%20Stop%20Me%20Now.mp3",
+    "id": "6"
+  },
+  {
+    "title": "Somebody To Love",
+    "artist":"queen",
+    "url": "https://testSongs.netlify.app/queen/Somebody%20To%20Love.mp3",
+    "id": "7"
+  },
+  {
+    "title": "Play The Game",
+    "artist":"queen",
+    "url": "https://testSongs.netlify.app/queen/Play%20The%20Game.mp3",
+    "id": "8"
+  },
+  {
+    "title": "Flash",
+    "artist":"queen",
+    "url": "https://testSongs.netlify.app/queen/Flash.mp3",
+    "id": "9"
+  },
+  {
+    "title": "We Will Rock You",
+    "artist":"queen",
+    "url": "https://testSongs.netlify.app/queen/We%20Will%20Rock%20You.mp3",
+    "id": "10"
+  },
+  {
+    "title": "You're My Best Friend",
+    "artist":"queen",
+    "url": "https://testSongs.netlify.app/queen/You're%20My%20Best%20Friend.mp3",
+    "id": "11"
+  }
+]

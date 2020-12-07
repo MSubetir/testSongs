@@ -12,5 +12,12 @@
     "artwork": "https://testSongs.netlify.app/ARTS/joker.jpg",
     "url": "https://testSongs.netlify.app/joker/data.json",
     "id": "2"
-      }
+    },
+	{
+    "title": "That is Queen",
+    "artist": "Queen",
+    "artwork": "https://testSongs.netlify.app/ARTS/queen.jpg",
+    "url": "https://testSongs.netlify.app/queen/data.json",
+    "id": "3"
+    }
 ]
