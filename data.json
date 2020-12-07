@@ -1,14 +1,14 @@
 [
     {
-    "title": "euroBeat",
-    "artist": "Powfu",
+    "title": "EuroBeat",
+    "artist": "Malcolm J Hill, Ross, Laurie...",
     "artwork": "https://testSongs.netlify.app/ARTS/euroBeat.jpg",
     "url": "https://testSongs.netlify.app/euroBeat/data.json",
     "id": "1"
     },
     {
     "title": "Joker",
-    "artist": "Powfu",
+    "artist": "Powfu, Imagine Dragons, Alan Walker...",
     "artwork": "https://testSongs.netlify.app/ARTS/joker.jpg",
     "url": "https://testSongs.netlify.app/joker/data.json",
     "id": "2"
